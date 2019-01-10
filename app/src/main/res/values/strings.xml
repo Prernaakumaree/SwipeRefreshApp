@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SwipeRefreshApp</string>
+    <string name="try_again_btn">Retry</string>
+    <string name="message_error_has_occurred">An error has occurred</string>
+    <string name="refreshing">Refreshing ...</string>
+    <string name="default_heading">Default heading</string>
+    <string name="default_description">This is sample description as Actual details not found in response body.</string>
+
+</resources>
